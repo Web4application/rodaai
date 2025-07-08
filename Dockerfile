@@ -1,5 +1,5 @@
 # Dockerfile for RodaAI
-FROM golang:1.21-alpine
+FROM golang:1.24-alpine
 
 WORKDIR /app
 
